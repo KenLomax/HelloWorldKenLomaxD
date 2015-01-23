@@ -9,3 +9,6 @@ And with GitHubForMac
 
 Tum tee tum
 Do I not have to add and then commit?
+
+
+Editing on my lovely PC
