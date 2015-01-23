@@ -12,3 +12,5 @@ Do I not have to add and then commit?
 
 
 Editing on my lovely PC
+
+Editing on my lovely Apple
